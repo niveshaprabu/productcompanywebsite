@@ -6,11 +6,11 @@ To design a static website for a software product company company.
 
 ## DESIGN STEPS:
 
-### Step 1:
+## Step 1:
 
 Requirement collection.
 
-### Step 2:
+## Step 2:
 
 Creating the layout using HTML and CSS.
 
@@ -35,14 +35,15 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
-''' home
+```
+home
 <title>EduSoft Private Limited</title>
 EduSoft Private Limited.
 Home
 Products
 People
 Contact Us
+```
 
 ## About Us:
 
@@ -56,7 +57,7 @@ Our new product TallyPrime takes this to a new level, making your start to autom
 
 Copyright © 2021 EduSoft Private Limited, Developed by Nivesha.
 
-product
+# product
 <title>EduSoft Private Limited</title>
 EduSoft Private Limited.
 Home
@@ -75,6 +76,7 @@ Price: Rs.10,000.00
 Copyright © 2021 EduSoft Private Limited, Developed by Nandhini.
 
 people
+```
 <title> People </title> <style> .home{ height: 3000px; width: 85%; border: 12px solid red; padding-left:10px; padding-right:10px; margin-left: auto; margin-right:auto; background-color:cyan; } .text{ color:blueviolet; font-family:'Lucida Sans'; font-size: 30px; text-align:center; 
 
     }
@@ -273,6 +275,7 @@ people
             Copyright &copy;2023 Developed by Nandhini S</footer></div>
         </div>
     </div>
+
   
   contact
   
