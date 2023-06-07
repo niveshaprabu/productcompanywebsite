@@ -349,12 +349,14 @@ people
 ![out6](https://github.com/niveshaprabu/productcompanywebsite/assets/122986499/e12c246d-5e96-45b4-a51b-b76d4296522e)
 
 ## CONTACT:
+![image](https://github.com/niveshaprabu/productcompanywebsite/assets/122986499/61620634-4e6f-4b96-be29-4fbd1e36939e)
 
-![out7](https://github.com/niveshaprabu/productcompanywebsite/assets/122986499/14df563c-bfef-4c8c-be69-84ea12ca937f)
+
 
 ## HTML VALIDATOR:
-  
-![valid](https://github.com/niveshaprabu/productcompanywebsite/assets/122986499/ec540a6a-99c3-4a22-9fbf-0009867dfbb1)
+ ![image](https://github.com/niveshaprabu/productcompanywebsite/assets/122986499/2de3cb6f-b5e0-4008-ba40-083cc10e46fc)
+ 
+
 
 ## Result:
 
